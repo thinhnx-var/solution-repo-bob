@@ -1,0 +1,1 @@
+export { getBobGreeting } from "./algorithm";
