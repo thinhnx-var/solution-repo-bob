@@ -3,8 +3,7 @@
     "target": "ES2019",
     "module": "commonjs",
     "outDir": "dist",
-    "rootDir": "src",
-    "rootDirs": ["src", "examples"],
+    "rootDir": ".",
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true
