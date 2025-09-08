@@ -1,3 +1,3 @@
 export function getBobGreeting(): string {
-  return "Hello, its Bob-failed";
+  return "Hello, its Bob";
 }
