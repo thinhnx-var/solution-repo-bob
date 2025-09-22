@@ -1,1 +1,1 @@
-// Utility functions for test signing - this is by ssh - mac air
+// Utility functions for test signing - this is by gpg - macmini
