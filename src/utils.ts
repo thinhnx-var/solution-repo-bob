@@ -1,1 +1,1 @@
-// Utility functions for test signing - this is by gpg - macmini123
+// Utility functions for test signing - this is by ssh - bob
